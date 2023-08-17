@@ -1,0 +1,28 @@
+@media screen and (max-width: 767px) {
+  .margin_top__home {
+    margin-top: 20rem;
+  }
+  .align_items-center__footer{
+    align-items: center;
+  }
+  .margin_bottom__footer{
+    margin-bottom: 2rem;
+  }
+  /* on Products and ProductCard wrapper*/
+  .margin_767{
+    margin: 2rem;
+  }
+  /* on ProductCard */
+  .img_fixed-width__767{
+    width: 200px;
+  }
+  .img_flex__767{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .text-alignment__767{
+    text-align: center;
+  }
+}
